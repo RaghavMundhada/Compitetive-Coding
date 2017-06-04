@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-# define INF 0x3f3f3f3f
- 
+#define INF 0x3f3f3f3f
+
 class Graph
 {
 public:

@@ -10,6 +10,12 @@ using namespace std;
 
 void genPrimes(vector<int>& primes,int k)
 {
+	/*
+		Generates all the primes numbers less than equal to k
+		complexity:O(n)
+		pass empty vector<int> primes
+	*/
+	
 	int i,j;
 	bool isprime;
 	primes.push_back(2);
